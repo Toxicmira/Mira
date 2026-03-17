@@ -1,2 +1,2 @@
 # Mira
-the repository was updated for a github task.
+the repository is being edited for an updated task here.
